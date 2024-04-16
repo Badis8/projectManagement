@@ -1,0 +1,12 @@
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\bin\Debug\GestionDeProhet.exe.config
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\bin\Debug\GestionDeProhet.exe
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\bin\Debug\GestionDeProhet.pdb
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.csproj.AssemblyReference.cache
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.Properties.Resources.resources
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.csproj.GenerateResource.cache
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.csproj.CoreCompileInputs.cache
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.exe
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.pdb
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.Form2.resources
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.Main.resources
+C:\Users\Badis Ben Sassi\source\repos\GestionDeProhet\obj\Debug\GestionDeProhet.UserControl1.resources
